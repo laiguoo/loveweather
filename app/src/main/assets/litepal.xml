@@ -3,8 +3,8 @@
 
     <version value = "1"/>
     <list>
-        <mapping class = "com.loveweather.android.db.Province"/>
-        <mapping class = "com.loveweather.android.db.City"/>
-        <mapping class = "com.loveweather.android.db.County"/>
+        <mapping class = "com.example.asus.loveweather.db.Province"/>
+        <mapping class = "com.example.asus.loveweather.db.City"/>
+        <mapping class = "com.example.asus.loveweather.db.County"/>
     </list>
 </litepal>
